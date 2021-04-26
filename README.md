@@ -1,0 +1,1 @@
+# Face_mask_detection_using_MobileNetV2_CNN_model
